@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 
 # ===== Bài 1: f(x) = x^2 - 2 =====
 def grad1(x):
